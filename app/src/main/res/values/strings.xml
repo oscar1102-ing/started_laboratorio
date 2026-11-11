@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Joke</string>
+    <string name="channel_name">Notificaciones de Joke</string>
+    <string name="question">Joke</string>
+    <string name="button_response">Timing!</string>
+    <string name="send_message">Enviar mensaje (10 s)</string>
+
+    <string name="hint_activity">Nombre del taller / parcial / tarea</string>
+    <string name="hint_value">Nota (estudiante) o nombre del estudiante (profesor)</string>
+    <string name="btn_grade">Estudiante: notificar calificación</string>
+    <string name="btn_submission">Profesor: notificar entrega de tarea</string>
+
+    <string name="notif_grade_title">Nueva calificación</string>
+    <string name="notif_grade_text">Tu %1$s fue calificado: %2$s</string>
+    <string name="notif_submission_title">Tarea entregada</string>
+    <string name="notif_submission_text">%1$s entregó \"%2$s\". Ya puedes calificarla.</string>
+
+    <string name="fill_fields">Completa los dos campos</string>
+    <string name="notification_scheduled">La notificación llegará en 5 segundos</string>
+    <string name="permission_denied">Sin permiso de notificaciones no verás los avisos</string>
+</resources>
